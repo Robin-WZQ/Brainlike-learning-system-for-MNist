@@ -61,6 +61,8 @@
 
 ![image-20220111152640586](assets/image-20220111152640586.png)
 
+![image](https://user-images.githubusercontent.com/60317828/148902709-7286b42e-5e1c-44e7-90d1-795f0d6cc924.png)
+
 从最终结果看，通过特征提取器+SOM网络最终得到了较好的学习效果。
 
 - 消融实验
