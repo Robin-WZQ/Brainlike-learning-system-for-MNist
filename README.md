@@ -14,8 +14,8 @@
 经我们调研与讨论，我们选择了3种模型作为正向传播模型的选择，分别是基于：
 
 - [自组织特征映射网](https://github.com/Robin-WZQ/Brainlike-learning-system-for-MNist/tree/main/ANN%2BSOM)
-- [进化计算](https://github.com/Robin-WZQ/Brainlike-learning-system-for-MNist/tree/main/CapsuleNet%2BSom)
-- [动态路由算法](https://github.com/Robin-WZQ/Brainlike-learning-system-for-MNist/tree/main/进化计算)
+- [进化计算](https://github.com/Robin-WZQ/Brainlike-learning-system-for-MNist/tree/main/进化计算)
+- [动态路由算法](https://github.com/Robin-WZQ/Brainlike-learning-system-for-MNist/tree/main/CapsuleNet%2BSom)
 
 
 
