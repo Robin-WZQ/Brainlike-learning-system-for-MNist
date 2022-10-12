@@ -2,6 +2,8 @@
 
 认知神经科学作业，模拟人脑神经元进行学习
 
+https://github.com/Robin-WZQ/BIT-AI-Review
+
 ## 任务说明
 
 1. 认真学习并调研生物神经元信息传递机制；
